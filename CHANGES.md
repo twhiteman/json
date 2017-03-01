@@ -1,8 +1,13 @@
 # json Changelog
 
-## json 9.0.5 (not yet released)
+## json 9.0.6 (not yet released)
 
 (nothing yet)
+
+
+## json 9.0.5
+
+- [issue #112] Fix `json -ga` performance degradation on long lines.
 
 
 ## json 9.0.4
